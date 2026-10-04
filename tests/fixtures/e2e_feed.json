@@ -1,0 +1,567 @@
+{
+  "schema_version": "feed.v1",
+  "note": "端到端自测夹具：数值逐字抄自 raw_feed.txt，标 synthetic=true 供 QA 裁决",
+  "synthetic": true,
+  "items": [
+    {
+      "item_id": "xhs-01",
+      "title": {
+        "raw": "客厅装修避坑：这5个插座位置我全做错了",
+        "src": "L2"
+      },
+      "url": {
+        "raw": "https://xhslink.com/a/Rt8xQm2",
+        "src": "L2"
+      },
+      "rank_label": {
+        "raw": "热榜",
+        "src": "L1"
+      },
+      "rank_pos": {
+        "raw": "1",
+        "src": "L2"
+      },
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "1.2万",
+          "src": "L3"
+        },
+        "collect": {
+          "raw": "3500",
+          "src": "L3"
+        },
+        "comment": {
+          "raw": "820",
+          "src": "L3"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-09-28",
+        "src": "L4"
+      },
+      "caption": {
+        "raw": "客厅装修避坑：这5个插座位置我全做错了",
+        "src": "L2"
+      },
+      "author_id": {
+        "raw": "木木家",
+        "src": "L5"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "xhs-02",
+      "title": {
+        "raw": "全屋收纳实测：客厅多出 2 平米",
+        "src": "L7"
+      },
+      "url": {
+        "raw": "https://xhslink.com/a/Bk3LpQ9",
+        "src": "L7"
+      },
+      "rank_label": {
+        "raw": "热榜",
+        "src": "L1"
+      },
+      "rank_pos": {
+        "raw": "2",
+        "src": "L7"
+      },
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "3.5w+",
+          "src": "L8"
+        },
+        "collect": {
+          "raw": "1.1万",
+          "src": "L8"
+        },
+        "comment": {
+          "raw": "2300",
+          "src": "L8"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-09-30",
+        "src": "L9"
+      },
+      "caption": {
+        "raw": "全屋收纳实测：客厅多出 2 平米",
+        "src": "L7"
+      },
+      "author_id": {
+        "raw": "木木家",
+        "src": "L10"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "xhs-03",
+      "title": {
+        "raw": "装修预算表怎么做才不超支",
+        "src": "L12"
+      },
+      "url": {
+        "raw": "https://www.xiaohongshu.com/explore/66f1a2b3",
+        "src": "L12"
+      },
+      "rank_label": {
+        "raw": "热榜",
+        "src": "L1"
+      },
+      "rank_pos": {
+        "raw": "3",
+        "src": "L12"
+      },
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "2.4万",
+          "src": "L13"
+        },
+        "collect": {
+          "raw": "9800",
+          "src": "L13"
+        },
+        "comment": {
+          "raw": "1500",
+          "src": "L13"
+        }
+      },
+      "publish_time": {
+        "raw": "10月1日",
+        "src": "L14"
+      },
+      "caption": {
+        "raw": "装修预算表怎么做才不超支",
+        "src": "L12"
+      },
+      "author_id": {
+        "raw": "木木家",
+        "src": "L15"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "xhs-11-missing-title",
+      "title": null,
+      "url": null,
+      "rank_label": {
+        "raw": "热榜",
+        "src": "L1"
+      },
+      "rank_pos": {
+        "raw": "11",
+        "src": "L52"
+      },
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "900",
+          "src": "L53"
+        },
+        "collect": {
+          "raw": "300",
+          "src": "L53"
+        },
+        "comment": {
+          "raw": "40",
+          "src": "L53"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-09-05",
+        "src": "L54"
+      },
+      "caption": null,
+      "author_id": {
+        "raw": "木木家",
+        "src": "L55"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "xhs-12-missing-url",
+      "title": {
+        "raw": "灯带选型",
+        "src": "L57"
+      },
+      "url": null,
+      "rank_label": {
+        "raw": "热榜",
+        "src": "L1"
+      },
+      "rank_pos": {
+        "raw": "12",
+        "src": "L57"
+      },
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "700",
+          "src": "L58"
+        },
+        "collect": {
+          "raw": "200",
+          "src": "L58"
+        },
+        "comment": {
+          "raw": "30",
+          "src": "L58"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-09-03",
+        "src": "L59"
+      },
+      "caption": null,
+      "author_id": {
+        "raw": "木木家",
+        "src": "L60"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "dy-13",
+      "title": {
+        "raw": "早八伪素颜妆容 30 秒",
+        "src": "L62"
+      },
+      "url": {
+        "raw": "https://v.douyin.com/iR8xQm2Ab/",
+        "src": "L62"
+      },
+      "rank_label": {
+        "raw": "为你推荐",
+        "src": "L61"
+      },
+      "rank_pos": null,
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "约50万",
+          "src": "L63"
+        },
+        "collect": {
+          "raw": "2.3万",
+          "src": "L63"
+        },
+        "comment": {
+          "raw": "1.1万",
+          "src": "L63"
+        }
+      },
+      "publish_time": {
+        "raw": "3天前",
+        "src": "L64"
+      },
+      "caption": {
+        "raw": "早八伪素颜妆容 30 秒",
+        "src": "L62"
+      },
+      "author_id": {
+        "raw": "阿KEN",
+        "src": "L65"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "dy-14",
+      "title": {
+        "raw": "换季护肤我只留了这 4 瓶",
+        "src": "L67"
+      },
+      "url": {
+        "raw": "https://v.douyin.com/iBk3LpQ9Cd/",
+        "src": "L67"
+      },
+      "rank_label": {
+        "raw": "为你推荐",
+        "src": "L61"
+      },
+      "rank_pos": null,
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "8.7万",
+          "src": "L68"
+        },
+        "collect": {
+          "raw": "3.1万",
+          "src": "L68"
+        },
+        "comment": {
+          "raw": "4200",
+          "src": "L68"
+        }
+      },
+      "publish_time": {
+        "raw": "昨天",
+        "src": "L69"
+      },
+      "caption": {
+        "raw": "换季护肤我只留了这 4 瓶",
+        "src": "L67"
+      },
+      "author_id": {
+        "raw": "阿KEN",
+        "src": "L70"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "dy-15",
+      "title": {
+        "raw": "油皮夏天不脱妆的关键",
+        "src": "L72"
+      },
+      "url": {
+        "raw": "https://www.douyin.com/video/7412345678901234567",
+        "src": "L72"
+      },
+      "rank_label": {
+        "raw": "为你推荐",
+        "src": "L61"
+      },
+      "rank_pos": null,
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "5.2万",
+          "src": "L73"
+        },
+        "collect": {
+          "raw": "1.4万",
+          "src": "L73"
+        },
+        "comment": {
+          "raw": "2600",
+          "src": "L73"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-10-02",
+        "src": "L74"
+      },
+      "caption": {
+        "raw": "油皮夏天不脱妆的关键",
+        "src": "L72"
+      },
+      "author_id": {
+        "raw": "阿KEN",
+        "src": "L75"
+      },
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "misc-16",
+      "title": {
+        "raw": "这个客厅设计真的好看",
+        "src": "L77"
+      },
+      "url": {
+        "raw": "https://url.cn/5abXyZ",
+        "src": "L77"
+      },
+      "rank_label": null,
+      "rank_pos": null,
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "2.2万",
+          "src": "L78"
+        },
+        "collect": {
+          "raw": "6400",
+          "src": "L78"
+        },
+        "comment": {
+          "raw": "890",
+          "src": "L78"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-09-27",
+        "src": "L79"
+      },
+      "caption": {
+        "raw": "这个客厅设计真的好看",
+        "src": "L77"
+      },
+      "author_id": null,
+      "content_flags": {
+        "ad_hard_sell": false,
+        "porn": false
+      }
+    },
+    {
+      "item_id": "ad-17",
+      "title": {
+        "raw": "全屋定制下单立减 3000 元，戳链接抢购",
+        "src": "L82"
+      },
+      "url": {
+        "raw": "https://www.douyin.com/ad/99887766",
+        "src": "L82"
+      },
+      "rank_label": null,
+      "rank_pos": null,
+      "metrics": {
+        "play": null,
+        "like": {
+          "raw": "1200",
+          "src": "L83"
+        },
+        "collect": {
+          "raw": "300",
+          "src": "L83"
+        },
+        "comment": {
+          "raw": "150",
+          "src": "L83"
+        }
+      },
+      "publish_time": {
+        "raw": "2026-10-01",
+        "src": "L84"
+      },
+      "caption": {
+        "raw": "全屋定制下单立减 3000 元，戳链接抢购",
+        "src": "L82"
+      },
+      "author_id": null,
+      "content_flags": {
+        "ad_hard_sell": true,
+        "ad_hard_sell_evidence": {
+          "raw": "戳链接抢购",
+          "src": "L82"
+        },
+        "porn": false
+      }
+    }
+  ],
+  "baselines": {
+    "木木家": {
+      "entries": [
+        {
+          "metric_values": {
+            "like": {
+              "raw": "620",
+              "src": "L88"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1100",
+              "src": "L89"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1500",
+              "src": "L90"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1900",
+              "src": "L91"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "2400",
+              "src": "L92"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "2800",
+              "src": "L93"
+            }
+          }
+        }
+      ]
+    },
+    "阿KEN": {
+      "entries": [
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1.2万",
+              "src": "L96"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1.5万",
+              "src": "L97"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "1.8万",
+              "src": "L98"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "2.1万",
+              "src": "L99"
+            }
+          }
+        },
+        {
+          "metric_values": {
+            "like": {
+              "raw": "2.6万",
+              "src": "L100"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

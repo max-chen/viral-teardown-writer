@@ -1,0 +1,22 @@
+# viral-teardown-writer 依赖声明
+#
+# 第三方依赖：无。
+#
+# 主流程（三个阶段脚本 + D2 探测校验 + 回归自测）只用 Python 标准库：
+#   json / re / sys / os / argparse / pathlib / datetime / decimal / unicodedata
+#
+# 必需依赖
+#   （无）
+#
+# 可选增强
+#   （无）
+#
+# 解释器要求：Python 3.8 及以上。已禁用 3.9+ 语法（match、X | Y 类型、
+# removeprefix/removesuffix、dict |），以适配旧系统 python3。
+# selftest.py 内含 Python 3.8 语法可解析性断言（L8），升级语法会直接失败。
+#
+# 行为说明：
+#   - 零第三方依赖，因此不存在「依赖缺失」分支，也无需提示安装。
+#   - 在无 PyYAML 的托管运行时下主流程完全可用（不读写任何 YAML）。
+#   - 网络能力由运行环境提供，脚本自身零网络代码；D2 结论以
+#     d2_probe.json 注入，脚本只校验其形状。
